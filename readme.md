@@ -1,0 +1,1 @@
+# GJK++: Leveraging Acceleration Methods for Faster Collision Detection 
